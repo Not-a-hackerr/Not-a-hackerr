@@ -26,6 +26,7 @@ Reach out:
 📄 [Veiw my CV](https://github.com/Not-a-hackerr/portfolio/blob/main/Nathan%20N%20Mwasuku%20CV.pdf)
 
 ### Stats:
+
 <div style="text-align: center;">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Not-a-hackerr&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
