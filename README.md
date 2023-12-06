@@ -17,14 +17,14 @@ Welcome to my GitHub! By leveraging my recent mathematics degree, I aim to ampli
 #
 
 Reach out:
-
  <p>
   <a href="https://www.linkedin.com/in/nathan-mw/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
  </p>
 
-
 📄 [Veiw my CV](https://github.com/Not-a-hackerr/portfolio/blob/main/Nathan%20N%20Mwasuku%20CV.pdf)
+
+https://github-readme-streak-stats.herokuapp.com/?user=Not-a-hackerr
 
 
