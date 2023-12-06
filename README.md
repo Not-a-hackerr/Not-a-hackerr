@@ -28,22 +28,3 @@ Reach out:
 📄 [Veiw my CV](https://github.com/Not-a-hackerr/portfolio/blob/main/Nathan%20N%20Mwasuku%20CV.pdf)
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Portfolio</title>
-</head>
-<body>
-
-<!-- LinkedIn Link -->
-<p>
-    <a href="https://www.linkedin.com/in/nathan-mw/" rel="nofollow noreferrer">
-        <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn"> LinkedIn
-    </a> &nbsp;
-</p>
-
-<!-- CV Embed -->
-<iframe src="https://docs.google.com/gview?url=https://github.com/Not-a-hackerr/portfolio/raw/main/Nathan%20N%20Mwasuku%20CV.pdf&embedded=true" style="width:100%; height:
