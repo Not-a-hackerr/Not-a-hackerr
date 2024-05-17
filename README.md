@@ -23,7 +23,7 @@ Reach out:
   </a> &nbsp; 
  </p>
 
-📄 [Veiw my CV](https://github.com/Not-a-hackerr/portfolio/blob/main/Nathan%20N%20Mwasuku%20CV.pdf)
+📄 [Veiw my CV](https://github.com/Not-a-hackerr/portfolio/blob/main/Nathan%20Mwasuku%20CV.pdf)
 
 ### Stats:
 
